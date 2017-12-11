@@ -17,7 +17,7 @@ spec:
         version: v1
     spec:
       containers:
-      - image: gcr.io/hodu-188318/helloworld:508182fdabe9f74bd274039f2b0197601779aec6
+      - image: gcr.io/hodu-188318/helloworld:a7aba66eccde1bab4d8d7618a7f9c1737b0118b1
         name: helloworld
         ports:
         - containerPort: 80
